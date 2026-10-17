@@ -21,11 +21,11 @@
 
 
 body {
-    background-color: brown;
+    background-image: url(../images/background.jpg);
     font-family:"Doppio One";
 }
 h1 {
-    color: burlywood;
+    color: #17415E;
     font-size: 3rem;
     text-align: center;
 }
@@ -33,20 +33,20 @@ h1 {
 h2 {
     font-size: 2rem;
     text-align: center;
-    color: sandybrown;
+    color: #17415E;
 }
 
 h3 {
     font-size: 1.9rem;
-    color: sandybrown;
+    color: #0E2739;
 }
 
 .rate {
-    color: sandybrown;
+    color: #0E2739;
 }
 
 p {
-    color: sandybrown;
+    color: #0E2739;
     font-size: 1.3rem;
     text-align: left;
     line-height: 1.4em;
@@ -57,14 +57,14 @@ p {
 ul {
     line-height: 1.8em;
     padding-left: 2rem;
-    color: sandybrown;
+    color: black;
     font-size: 1.1rem;
 }
 
 ol {
     line-height: 1.8em;
     padding-left: 2rem;
-    color: sandybrown;
+    color: black;
     font-size: 1.1rem;
 }
 
