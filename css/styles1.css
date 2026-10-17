@@ -83,16 +83,16 @@ img {
 
 figcaption {
     text-align: center;
-    color: sandybrown;
+    color: blue;
 }
 
 .difficulty-box {
     width: 300px;
-    background-color: sienna;
+    background-color: cornflowerblue;
 }
 
 legend {
-    color: burlywood;
+    color: darkslateblue;
 }
 
 .easy {
