@@ -10,7 +10,7 @@ h2, h3 {
     color:rgb(4, 186, 95);
 }
 
-p, li,figure, figcaption, legend {
+a,p, li,figure, figcaption, legend {
 	font-family: 'Italiana', serif;
     color: #02fff7;
 
@@ -44,4 +44,14 @@ input, textarea, select, button {
 
   flex: 0 0 auto;
 
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-content p {
+    margin: 0;
 }
